@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lovenatureforever&show_icons=true&locale=en" alt="lovenatureforever" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovenatureforever&" alt="lovenatureforever" /></p>
+
+[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lovenatureforever&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
